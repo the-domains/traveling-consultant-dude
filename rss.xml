@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Traveling Consultant Dude]]></title>
         <description><![CDATA[Traveling Consultant Dude]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/traveling-consultant-dude/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 15:43:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jul 2016 15:49:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/traveling-consultant-dude/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/018b2f3b-20e1-4ba1-9ddb-0f8bea4e59d6.jpg">]]></description>
+            <link>https://thegrid.ai/traveling-consultant-dude/as-i-sip-my-decaf-and-watch-the-sun-set/index.html</link>
+            <guid isPermaLink="false">1f5663fb-a45d-4ec3-91fb-4d27bac738aa</guid>
+            <pubDate>Sun, 24 Jul 2016 15:49:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70a861d6-0096-4503-82e1-22a9fbe2537a.jpg">]]></description>
-            <link>undefinedwater-is-the-essence-of-life-you-dont-need-me-to-tell-you/index.html</link>
+            <link>https://thegrid.ai/traveling-consultant-dude/water-is-the-essence-of-life-you-dont-need-me-to-tell-you/index.html</link>
             <guid isPermaLink="false">ed59be23-68c1-4e8b-8db7-3834676905b3</guid>
             <pubDate>Sun, 24 Jul 2016 15:43:43 GMT</pubDate>
         </item>
